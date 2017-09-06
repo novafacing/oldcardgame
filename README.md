@@ -1,2 +1,1 @@
-# oldcardgame
-A set of tools for (yikes!) yugioh. Haven't played in forever but hey it's a good code example for later.
+A set of tools written in tenth grade for a trading card game. Keeping the code for nostalgia purposes.
